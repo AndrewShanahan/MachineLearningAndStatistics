@@ -1,21 +1,29 @@
-# MachineLearningAndStatistics
+# MachineLearningAndStatistics<br>
 
-Introduction
+### Introduction<br>
 
-This repository has been created as part of the course work for the Fundamentals of Data Analysis module in the Higher Diploma in Computer Programming in Data Analytics provided by Atlantic Technical University.
+This repository has been created as part of the course work for the Fundamentals of Data Analysis module in the Higher Diploma in Computer Programming in Data Analytics provided by Atlantic Technical University.<br>
 
-Purpose
+### Purpose<br>
 
-This repository has two jupyter notebooks, one for the tasks element to the course and one for the project exploring classification algorithms applied on the iris flower data set associated with Ronald A Fisher.
+This repository has two jupyter notebooks, one for the tasks element to the course and one for the project exploring classification algorithms applied on the iris flower data set associated with Ronald A Fisher.<br>
 
-System Requirments
+### System Requirments<br>
 
-To run or modify the notebooks on a local machine requires the latest version of Python, Anaconda is an easy to use version available on Windows, Mac or Linux operating systems. Alternatively there are a number of web based version available.
+To run or modify the notebooks on a local machine requires the latest version of Python, Anaconda is an easy to use version available on Windows, Mac or Linux operating systems. Alternatively there are a number of web based version available.<br>
 
-Running Jupyter Notebooks
+### Running Jupyter Notebooks<br>
 
-The following link provides information on how to launch Jupyter notebook from a terminal.
-https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+The following link provides information on how to launch Jupyter notebook from a terminal.<br>
+https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html<br>
 
-Contact:
+### Python libraries:<br>
+scipy.stats:<br>
+https://docs.scipy.org/doc/scipy/reference/stats.html<br>
+pandas:<br>
+https://pandas.pydata.org/<br>
+seaborn:<br>
+https://seaborn.pydata.org/<br>
+
+### Contact:
 G00217642@atu.ie

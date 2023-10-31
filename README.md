@@ -24,6 +24,9 @@ pandas:<br>
 https://pandas.pydata.org/<br>
 seaborn:<br>
 https://seaborn.pydata.org/<br>
+scikit-learn:<br>
+https://scikit-learn.org/stable/index.html<br>
+
 
 ### Contact:
 G00217642@atu.ie
